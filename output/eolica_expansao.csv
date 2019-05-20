@@ -1,0 +1,4 @@
+id,cod_eolica_exp,Nome_eolica_exp,Situacao_eolica_exp,Potencia_eolica_exp,UF_eolica_exp,Subsitema_eolica_exp,Ano_eolica_exp,lng_eolica_exp,lat_eolica_exp
+2068,2068,Ouro Branco 1,Expansão contratada,30,PE,NORDESTE,,-36.731345414999964,-8.181775252999955
+2109,2109,Quatro Ventos,Expansão contratada,22,PE,NORDESTE,,-35.493034912999974,-7.487569743999927
+2110,2110,Ouro Branco 2,Expansão contratada,30,PE,NORDESTE,,NaN,NaN

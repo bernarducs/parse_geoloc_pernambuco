@@ -1,0 +1,262 @@
+{
+ "displayFieldName": "nome",
+ "fieldAliases": {
+  "objectid": "objectid",
+  "se": "SE",
+  "nome": "Nome",
+  "atitude": "Latitude",
+  "ongitude": "Longitude",
+  "ltitude": "Altitude"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4674,
+  "latestWkid": 4674
+ },
+ "fields": [
+  {
+   "name": "objectid",
+   "type": "esriFieldTypeOID",
+   "alias": "objectid"
+  },
+  {
+   "name": "se",
+   "type": "esriFieldTypeString",
+   "alias": "SE",
+   "length": 8
+  },
+  {
+   "name": "nome",
+   "type": "esriFieldTypeString",
+   "alias": "Nome",
+   "length": 50
+  },
+  {
+   "name": "atitude",
+   "type": "esriFieldTypeDouble",
+   "alias": "Latitude"
+  },
+  {
+   "name": "ongitude",
+   "type": "esriFieldTypeDouble",
+   "alias": "Longitude"
+  },
+  {
+   "name": "ltitude",
+   "type": "esriFieldTypeDouble",
+   "alias": "Altitude"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "objectid": 1,
+    "se": "BGI",
+    "nome": "Subestação Bongí",
+    "atitude": -8.0632140000000003,
+    "ongitude": -34.926816000000002,
+    "ltitude": 9.4990000000000006
+   },
+   "geometry": {
+    "x": -34.926816271999996,
+    "y": -8.0632137420000163
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2,
+    "se": "GNN",
+    "nome": "Subestação Goianinha",
+    "atitude": -7.5861330000000002,
+    "ongitude": -35.088349000000001,
+    "ltitude": 138.07400000000001
+   },
+   "geometry": {
+    "x": -35.088349042000004,
+    "y": -7.5861332470000207
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3,
+    "se": "JRM",
+    "nome": "Subestação Joairam",
+    "atitude": -8.080508,
+    "ongitude": -34.980952000000002,
+    "ltitude": 40.741
+   },
+   "geometry": {
+    "x": -34.980951714000014,
+    "y": -8.0805080389999944
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 4,
+    "se": "MRR",
+    "nome": "Subestação Mirueira",
+    "atitude": -7.9549779999999997,
+    "ongitude": -34.892059000000003,
+    "ltitude": 57.805
+   },
+   "geometry": {
+    "x": -34.892059324999991,
+    "y": -7.9549775109999814
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 5,
+    "se": "PFE",
+    "nome": "Subestação Pau Ferro",
+    "atitude": -7.8601150000000004,
+    "ongitude": -35.019562000000001,
+    "ltitude": 126.779
+   },
+   "geometry": {
+    "x": -35.019562113999996,
+    "y": -7.8601145279999969
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6,
+    "se": "PRD",
+    "nome": "Subestação Pirapama Dois",
+    "atitude": -8.2729610000000005,
+    "ongitude": -35.025599999999997,
+    "ltitude": 25.841000000000001
+   },
+   "geometry": {
+    "x": -35.025599767000017,
+    "y": -8.2729613139999856
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 7,
+    "se": "RCD",
+    "nome": "Subestação Recife Dois",
+    "atitude": -8.1123519999999996,
+    "ongitude": -35.038896000000001,
+    "ltitude": 57.084000000000003
+   },
+   "geometry": {
+    "x": -35.038895561000004,
+    "y": -8.1123524810000163
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 8,
+    "se": "RIB",
+    "nome": "Subestação Ribeirão",
+    "atitude": -8.4709599999999998,
+    "ongitude": -35.39949,
+    "ltitude": 0
+   },
+   "geometry": {
+    "x": -35.399490356000001,
+    "y": -8.47095966400002
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 9,
+    "se": "AGD",
+    "nome": "Subestação Angelim Dois",
+    "atitude": -8.8969140000000007,
+    "ongitude": -36.297035000000001,
+    "ltitude": 705.24800000000005
+   },
+   "geometry": {
+    "x": -36.297035216999973,
+    "y": -8.8969135280000273
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 10,
+    "se": "AGL",
+    "nome": "Subestação Angelim",
+    "atitude": -8.8912890000000004,
+    "ongitude": -36.294246000000001,
+    "ltitude": 680.25300000000004
+   },
+   "geometry": {
+    "x": -36.294245739000019,
+    "y": -8.8912890309999852
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 11,
+    "se": "TAC",
+    "nome": "Subestação Tacaimbó",
+    "atitude": -8.3301110000000005,
+    "ongitude": -36.223014999999997,
+    "ltitude": 601.66600000000005
+   },
+   "geometry": {
+    "x": -36.223014831,
+    "y": -8.3301105499999721
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 12,
+    "se": "ITP",
+    "nome": "Subestação Itaparica",
+    "atitude": -9.1522900000000007,
+    "ongitude": -38.297288999999999,
+    "ltitude": 286.35599999999999
+   },
+   "geometry": {
+    "x": -38.297289089000003,
+    "y": -9.152290177999987
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 13,
+    "se": "LGZ",
+    "nome": "Subestação Luiz Gonzaga",
+    "atitude": -9.1440769999999993,
+    "ongitude": -38.303863999999997,
+    "ltitude": 277.464
+   },
+   "geometry": {
+    "x": -38.303864022000027,
+    "y": -9.1440767529999789
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 14,
+    "se": "ULG",
+    "nome": "Usina Luiz Gonzaga",
+    "atitude": -9.1425370000000008,
+    "ongitude": -38.308455000000002,
+    "ltitude": 263.76499999999999
+   },
+   "geometry": {
+    "x": -38.308455374999994,
+    "y": -9.1425371639999753
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 15,
+    "se": "BNO",
+    "nome": "Subestação Bom Nome",
+    "atitude": -7.9962749999999998,
+    "ongitude": -38.626286,
+    "ltitude": 470.68799999999999
+   },
+   "geometry": {
+    "x": -38.626285553000002,
+    "y": -7.996274948000007
+   }
+  }
+ ]
+}

@@ -1,0 +1,1670 @@
+{
+ "displayFieldName": "nome",
+ "fieldAliases": {
+  "objectid": "ID",
+  "nome": "Nome",
+  "codmun": "Geocódigo",
+  "munic": "Município",
+  "uf": "UF",
+  "proc_aneel": "Proc ANEEL",
+  "ato_legal": "Ato Legal",
+  "p_out_kw": "P Out KW",
+  "proprietar": "Proprietário",
+  "atualizaca": "Atualização",
+  "eol_versao": "Eol Versão",
+  "logitude": "Longitude",
+  "latitude": "Latitude",
+  "dro_dt_vig": "Dro Dt Vig",
+  "ceg": "Ceg",
+  "estagio": "Estágio",
+  "versao": "Versão",
+  "mod_explor": "Mod Explor"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4674,
+  "latestWkid": 4674
+ },
+ "fields": [
+  {
+   "name": "objectid",
+   "type": "esriFieldTypeOID",
+   "alias": "ID"
+  },
+  {
+   "name": "nome",
+   "type": "esriFieldTypeString",
+   "alias": "Nome",
+   "length": 254
+  },
+  {
+   "name": "codmun",
+   "type": "esriFieldTypeDouble",
+   "alias": "Geocódigo"
+  },
+  {
+   "name": "munic",
+   "type": "esriFieldTypeString",
+   "alias": "Município",
+   "length": 254
+  },
+  {
+   "name": "uf",
+   "type": "esriFieldTypeString",
+   "alias": "UF",
+   "length": 254
+  },
+  {
+   "name": "proc_aneel",
+   "type": "esriFieldTypeString",
+   "alias": "Proc ANEEL",
+   "length": 254
+  },
+  {
+   "name": "ato_legal",
+   "type": "esriFieldTypeString",
+   "alias": "Ato Legal",
+   "length": 254
+  },
+  {
+   "name": "p_out_kw",
+   "type": "esriFieldTypeDouble",
+   "alias": "P Out KW"
+  },
+  {
+   "name": "proprietar",
+   "type": "esriFieldTypeString",
+   "alias": "Proprietário",
+   "length": 254
+  },
+  {
+   "name": "atualizaca",
+   "type": "esriFieldTypeDate",
+   "alias": "Atualização",
+   "length": 36
+  },
+  {
+   "name": "eol_versao",
+   "type": "esriFieldTypeDouble",
+   "alias": "Eol Versão"
+  },
+  {
+   "name": "logitude",
+   "type": "esriFieldTypeString",
+   "alias": "Longitude",
+   "length": 50
+  },
+  {
+   "name": "latitude",
+   "type": "esriFieldTypeString",
+   "alias": "Latitude",
+   "length": 50
+  },
+  {
+   "name": "dro_dt_vig",
+   "type": "esriFieldTypeDate",
+   "alias": "Dro Dt Vig",
+   "length": 36
+  },
+  {
+   "name": "ceg",
+   "type": "esriFieldTypeString",
+   "alias": "Ceg",
+   "length": 21
+  },
+  {
+   "name": "estagio",
+   "type": "esriFieldTypeString",
+   "alias": "Estágio",
+   "length": 50
+  },
+  {
+   "name": "versao",
+   "type": "esriFieldTypeString",
+   "alias": "Versão",
+   "length": 50
+  },
+  {
+   "name": "mod_explor",
+   "type": "esriFieldTypeString",
+   "alias": "Mod Explor",
+   "length": 50
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "objectid": 1,
+    "nome": "Ventos de Santo Estevão IV",
+    "codmun": 260110,
+    "munic": "Araripina",
+    "uf": "PE",
+    "proc_aneel": "48500.003968/2013-14",
+    "ato_legal": "PRT 181/2015, DSP 1.914/2014, DSP 2.605/2013",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de Santo Estevão Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 671,
+    "logitude": "40° 37' 56,947\" W",
+    "latitude": "7° 47' 24,136\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE032365-9",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -40.632485155999973,
+    "y": -7.7900378759999853
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2,
+    "nome": "Ventos de Santo Estevão II",
+    "codmun": 260110,
+    "munic": "Araripina",
+    "uf": "PE",
+    "proc_aneel": "48500.003970/2013-85",
+    "ato_legal": "PRT 452/2014, DSP 2.603/2013",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de Santo Estevão Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 385,
+    "logitude": "40°39'47,329\"W",
+    "latitude": "7°45'12,474\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031762-4",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -40.663071645999992,
+    "y": -7.7534680520000165
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3,
+    "nome": "Serra das Vacas VII",
+    "codmun": 2610301,
+    "munic": "Paranatama",
+    "uf": "PE",
+    "proc_aneel": "48500.004119/2014-51",
+    "ato_legal": "PRT 127/2015, DSP 3.482/2014",
+    "p_out_kw": 26000,
+    "proprietar": "PEC Energia S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 724,
+    "logitude": "36° 42' 22,888\" W",
+    "latitude": "8° 53' 58,995\" S",
+    "dro_dt_vig": null,
+    "ceg": " ",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.706357690000004,
+    "y": -8.899720823999985
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 4,
+    "nome": "Gravatá Fruitrade",
+    "codmun": 2606408,
+    "munic": "Gravatá",
+    "uf": "PE",
+    "proc_aneel": "48500.004068/2003-33",
+    "ato_legal": "DSP 1105/2010, DSP 4619/2009, DSP 3429/2009, RES 1106/2007, DSP 2453/2007, DSP 582/2006, RES 51/2005, RES 724/2003",
+    "p_out_kw": 4950,
+    "proprietar": "Eólica Gravatá Geradora de Energia S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 27,
+    "logitude": "35°35'48\"W",
+    "latitude": "8°16'6,7\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE029020-3",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -35.596404961000019,
+    "y": -8.2681607669999835
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 5,
+    "nome": "Pirauá",
+    "codmun": 2609006,
+    "munic": "Macaparana",
+    "uf": "PE",
+    "proc_aneel": "48500.003360/2001-68 e 48500.000889/2002-47",
+    "ato_legal": "DSP 1.221/2010, DSP 114/2010, RES 1432/2008, DSP 2738/2007, DSP 580/2006, RES 67/2005, DSP 404/2004, RES 541/2003, RES 30/2002",
+    "p_out_kw": 4950,
+    "proprietar": "Eólica Pirauá Geradora de Energia S/A",
+    "atualizaca": 1445385600000,
+    "eol_versao": 44,
+    "logitude": "35°29'44\"W",
+    "latitude": "7°29'44\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE028481-5",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -35.495521322999991,
+    "y": -7.4953345810000087
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6,
+    "nome": "Ventos de Santo Estevão I",
+    "codmun": 260110,
+    "munic": "Araripina",
+    "uf": "PE",
+    "proc_aneel": "48500.003969/2013-51",
+    "ato_legal": "PRT 451/2014, DSP 2.602/2013",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de Santo Estevão I Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 384,
+    "logitude": "40°40'26,406\"W",
+    "latitude": "7°44'37,196\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031761-6",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -40.673850988000027,
+    "y": -7.7436654640000029
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 7,
+    "nome": "Ventos de São Clemente 1",
+    "codmun": 260320,
+    "munic": "Caetés",
+    "uf": "PE",
+    "proc_aneel": "48500.006489/2013-41",
+    "ato_legal": "PRT 627/2014, DSP 3.831/2013",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de São Clemente I Energias Renováveis S.A",
+    "atualizaca": 1445385600000,
+    "eol_versao": 590,
+    "logitude": "36°41'59,738\"W",
+    "latitude": "8°43'34,781\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031818-3",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.699932675000014,
+    "y": -8.7263196669999843
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 8,
+    "nome": "Ventos de São Clemente 2",
+    "codmun": 261600,
+    "munic": "Venturosa",
+    "uf": "PE",
+    "proc_aneel": "48500.006490/2013-76",
+    "ato_legal": "PRT 628/2014, DSP 3.832/2013",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de São Clemente II Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 591,
+    "logitude": "36°44'1,213\"W",
+    "latitude": "8°42'33,531\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031819-1",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.733656482000015,
+    "y": -8.7093044200000236
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 9,
+    "nome": "Ventos de São Clemente 3",
+    "codmun": 261600,
+    "munic": "Venturosa",
+    "uf": "PE",
+    "proc_aneel": "48500.006491/2013-11",
+    "ato_legal": "PRT 631/2014, DSP 3.833/2013",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de São Clemente III Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 592,
+    "logitude": "36°42'58,583\"W",
+    "latitude": "8°42'45,306\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031820-5",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.716231597999979,
+    "y": -8.7125894970000104
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 10,
+    "nome": "Ventos de São Clemente 5",
+    "codmun": 260320,
+    "munic": "Caetés",
+    "uf": "PE",
+    "proc_aneel": "48500.006485/2013-63",
+    "ato_legal": "PRT 632/2014, DSP 3.835/2013",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de São Clemente V Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 594,
+    "logitude": "36°45'23,603\"W",
+    "latitude": "8°46'47,724\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031822-1",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.756570816000021,
+    "y": -8.7799320650000254
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 11,
+    "nome": "Ventos de São Clemente 6",
+    "codmun": 260320,
+    "munic": "Caetés",
+    "uf": "PE",
+    "proc_aneel": "48500.006486/2013-16",
+    "ato_legal": "PRT 633/2014, DSP 3.836/2013",
+    "p_out_kw": 26000,
+    "proprietar": "Ventos de São Clemente VI Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 595,
+    "logitude": "36°42'45,006\"W",
+    "latitude": "8°45'39,882\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031823-0",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.712447757000007,
+    "y": -8.7610571920000098
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 12,
+    "nome": "Ouro Branco 1",
+    "codmun": 2611200,
+    "munic": "Poção",
+    "uf": "PE",
+    "proc_aneel": "48500.001419/2014-88",
+    "ato_legal": "PRT 647/2014, DSP  936/2014",
+    "p_out_kw": 30000,
+    "proprietar": "Eólica Energia Ltda.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 584,
+    "logitude": "36° 44' 42,118\" W",
+    "latitude": "8° 10' 42,778\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031807-8",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.745032700000024,
+    "y": -8.1785495519999927
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 13,
+    "nome": "Ouro Branco 2",
+    "codmun": 2611200,
+    "munic": "Poção",
+    "uf": "PE",
+    "proc_aneel": "48500.001472/2014-89",
+    "ato_legal": "PRT 650/2014, DSP 937/2014",
+    "p_out_kw": 30000,
+    "proprietar": "Eólica Energia Ltda.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 585,
+    "logitude": "36° 43' 40,031\" W",
+    "latitude": "8° 11' 3,760\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031808-6",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.727786451999975,
+    "y": -8.1843777939999995
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 14,
+    "nome": "Ventos de Santo Estevão III",
+    "codmun": 260110,
+    "munic": "Araripina",
+    "uf": "PE",
+    "proc_aneel": "48500.003967/2013-61",
+    "ato_legal": "PRT 453/2014, DSP 2.604/2013",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de Santo Estevão III Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 386,
+    "logitude": "40°38'21,032\"W",
+    "latitude": "7°43'34,78\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031763-2",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -40.638960266000026,
+    "y": -7.7262775080000097
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 15,
+    "nome": "Ventos de Santo Estevão V",
+    "codmun": 260110,
+    "munic": "Araripina",
+    "uf": "PE",
+    "proc_aneel": "48500.003965/2013-72",
+    "ato_legal": "PRT 454/2014, DSP 2.606/2013",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de Santo Estevão V Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 387,
+    "logitude": "40°36'31,94\"W",
+    "latitude": "7°45'46,124\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031764-0",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -40.608716618000017,
+    "y": -7.7629038989999799
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 16,
+    "nome": "Ventos de São Clemente 8",
+    "codmun": 261600,
+    "munic": "Venturosa",
+    "uf": "PE",
+    "proc_aneel": "48500.006483/2013-74",
+    "ato_legal": "PRT 634/2014, DSP 3.838/2013",
+    "p_out_kw": 20000,
+    "proprietar": "Ventos de São Clemente VIII Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 597,
+    "logitude": "36°41'53,397\"W",
+    "latitude": " 8°41'47,511\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031825-6",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.698161749000008,
+    "y": -8.6965460700000108
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 17,
+    "nome": "Ventos de São Clemente 4",
+    "codmun": 261600,
+    "munic": "Venturosa",
+    "uf": "PE",
+    "proc_aneel": "48500.006484/2013-19",
+    "ato_legal": "PRT 639/2014, DSP 3.834/2013",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de São Clemente IV Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 593,
+    "logitude": "36°45'45,498\"W",
+    "latitude": "8°42'12,653\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031821-3",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.762641852999991,
+    "y": -8.7035468160000278
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 18,
+    "nome": "Ventos de São Clemente 7",
+    "codmun": 260320,
+    "munic": "Caetés",
+    "uf": "PE",
+    "proc_aneel": "48500.006487/2013-52",
+    "ato_legal": "PRT 640/2014, DSP 3.837/2013",
+    "p_out_kw": 24000,
+    "proprietar": "Ventos de São Clemente VII Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 596,
+    "logitude": "36°43'32,039\"W",
+    "latitude": "8°44'45,062\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031824-8",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.725568285999998,
+    "y": -8.7458615410000107
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 19,
+    "nome": "Quatro Ventos",
+    "codmun": 2609006,
+    "munic": "Macaparana",
+    "uf": "PE",
+    "proc_aneel": "48500.001397/2014-56",
+    "ato_legal": "PRT 651/2014",
+    "p_out_kw": 22000,
+    "proprietar": "Eólica Energia Ltda., Eólica Tecnologia Ltda",
+    "atualizaca": 1445385600000,
+    "eol_versao": 882,
+    "logitude": "35°29'23\"W",
+    "latitude": "7°28'58\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031809-4",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -35.489722730999972,
+    "y": -7.4827771029999894
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 20,
+    "nome": "Serra das Vacas V",
+    "codmun": 2610301,
+    "munic": "Paranatama",
+    "uf": "PE",
+    "proc_aneel": "48500.004121/2014-20",
+    "ato_legal": "PRT 126/2015, DSP 3.480/2014",
+    "p_out_kw": 26000,
+    "proprietar": "PEC Energia S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 723,
+    "logitude": "36° 46' 38,903\" W",
+    "latitude": "8° 55' 6,505\" S",
+    "dro_dt_vig": null,
+    "ceg": " ",
+    "estagio": "Construção não iniciada",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.777472977999992,
+    "y": -8.9184735260000139
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 21,
+    "nome": "Caminho da Praia",
+    "codmun": 2602902,
+    "munic": "Cabo de Santo Agostinho",
+    "uf": "PE",
+    "proc_aneel": "48500.004766/2012-09",
+    "ato_legal": "OFC 14/2013",
+    "p_out_kw": 2000,
+    "proprietar": "Wind Power Energia S.A",
+    "atualizaca": 1445385600000,
+    "eol_versao": 256,
+    "logitude": "35° 0' 19.123\" W",
+    "latitude": "8° 20' 3.776\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031006-9",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "REG"
+   },
+   "geometry": {
+    "x": -35.005296156999975,
+    "y": -8.334378748000006
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 22,
+    "nome": "Eólica Olinda",
+    "codmun": 2609600,
+    "munic": "Olinda",
+    "uf": "PE",
+    "proc_aneel": "48500.004371/2001-10",
+    "ato_legal": "DSP 2040/2005",
+    "p_out_kw": 225,
+    "proprietar": "Centro Brasileiro de Energia Eólica - FADE/UFPE",
+    "atualizaca": 1445385600000,
+    "eol_versao": 21,
+    "logitude": "34° 51' 40.000\" W",
+    "latitude": "8° 1' 42.000\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE028643-5",
+    "estagio": "Desativado",
+    "versao": "Versão Válida",
+    "mod_explor": "REG"
+   },
+   "geometry": {
+    "x": -34.861111111000014,
+    "y": -8.0283333329999778
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 23,
+    "nome": "Ventos de Santo Estevão III",
+    "codmun": 260110,
+    "munic": "Araripina",
+    "uf": "PE",
+    "proc_aneel": "48500.003967/2013-61",
+    "ato_legal": "PRT 453/2014, DSP 2.604/2013",
+    "p_out_kw": 29900,
+    "proprietar": "Ventos de Santo Estevão III Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 560,
+    "logitude": "40° 39' 30,274\" W",
+    "latitude": "7° 43' 41,987\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031763-2",
+    "estagio": "Construção não iniciada",
+    "versao": "Solicitação de Alteração",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -40.658409457999994,
+    "y": -7.7283296580000069
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 24,
+    "nome": "Ventos de Santo Estevão II",
+    "codmun": 260110,
+    "munic": "Araripina",
+    "uf": "PE",
+    "proc_aneel": "48500.003970/2013-85",
+    "ato_legal": "PRT 452/2014, DSP 2.603/2013",
+    "p_out_kw": 25300,
+    "proprietar": "Ventos de Santo Estevão II Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 559,
+    "logitude": "40° 37' 46,683\" W",
+    "latitude": "7° 44' 53,425\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031762-4",
+    "estagio": "Construção não iniciada",
+    "versao": "Solicitação de Alteração",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -40.629634280000005,
+    "y": -7.7481735960000151
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 25,
+    "nome": "Ventos de Santo Estevão I",
+    "codmun": 260110,
+    "munic": "Araripina",
+    "uf": "PE",
+    "proc_aneel": "48500.003969/2013-51",
+    "ato_legal": "PRT 451/2014, DSP 2.602/2013",
+    "p_out_kw": 25300,
+    "proprietar": "Ventos de Santo Estevão I Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 558,
+    "logitude": "40° 37' 14,928\" W",
+    "latitude": "7° 44' 39,075\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031761-6",
+    "estagio": "Construção não iniciada",
+    "versao": "Solicitação de Alteração",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -40.620813213000019,
+    "y": -7.7441874730000109
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 26,
+    "nome": "Ventos de Santo Estevão V",
+    "codmun": 260110,
+    "munic": "Araripina",
+    "uf": "PE",
+    "proc_aneel": "48500.003965/2013-72",
+    "ato_legal": "PRT 454/2014, DSP 2.606/2013",
+    "p_out_kw": 27600,
+    "proprietar": "Ventos de Santo Estevão V Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 562,
+    "logitude": "40° 40' 23,957\" W",
+    "latitude": "7° 45' 35,556\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031764-0",
+    "estagio": "Construção não iniciada",
+    "versao": "Solicitação de Alteração",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -40.673321455999996,
+    "y": -7.7598766190000106
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 27,
+    "nome": "Ventos de Santo Estevão IV",
+    "codmun": 260110,
+    "munic": "Araripina",
+    "uf": "PE",
+    "proc_aneel": "48500.003968/2013-14",
+    "ato_legal": "PRT 181/2015, DSP 1.914/2014, DSP 2.605/2013",
+    "p_out_kw": 29900,
+    "proprietar": "Ventos de Santo Estevão IV Energias Renováveis S.A.",
+    "atualizaca": 1445385600000,
+    "eol_versao": 561,
+    "logitude": "40° 35' 38,924\" W",
+    "latitude": "7° 43' 35,752\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE032365-9",
+    "estagio": "Construção não iniciada",
+    "versao": "Solicitação de Alteração",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -40.594145493999974,
+    "y": -7.7265977609999936
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 28,
+    "nome": "Bom Conselho I",
+    "codmun": 2602100,
+    "munic": "Bom Conselho",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 29400,
+    "proprietar": "CPFL ENERGIAS RENOVAVEIS S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99203,
+    "logitude": "36° 44' 22,928\" W",
+    "latitude": "9° 5' 9,819\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.739702138999974,
+    "y": -9.0860606960000041
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 29,
+    "nome": "Bom Conselho II",
+    "codmun": 2602100,
+    "munic": "Bom Conselho",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 29400,
+    "proprietar": "CPFL ENERGIAS RENOVAVEIS S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99338,
+    "logitude": "36° 43' 52,048\" W",
+    "latitude": "9° 7' 36,600\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.731124459,
+    "y": -9.1268332610000016
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 30,
+    "nome": "Bom Conselho III",
+    "codmun": 2602100,
+    "munic": "Bom Conselho",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 29400,
+    "proprietar": "CPFL ENERGIAS RENOVAVEIS S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99688,
+    "logitude": "36° 45' 56,140\" W",
+    "latitude": "9° 9' 57,121\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.765594559000021,
+    "y": -9.1658670400000233
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 31,
+    "nome": "Ouro Branco 3",
+    "codmun": 2611200,
+    "munic": "Poção",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 22000,
+    "proprietar": "EÓLICA ENERGIA LTDA",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99706,
+    "logitude": "36° 43' 47,578\" W",
+    "latitude": "8° 12' 4,873\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.729882746999976,
+    "y": -8.2013537079999992
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 32,
+    "nome": "Saloá I",
+    "codmun": 2612307,
+    "munic": "Saloá",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 27300,
+    "proprietar": "CPFL ENERGIAS RENOVAVEIS S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99518,
+    "logitude": "36° 46' 51,099\" W",
+    "latitude": "8° 59' 53,767\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.78086087600002,
+    "y": -8.9982685780000224
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 33,
+    "nome": "Saloá II",
+    "codmun": 2612307,
+    "munic": "Saloá",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 29400,
+    "proprietar": "CPFL ENERGIAS RENOVAVEIS S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99228,
+    "logitude": "36° 47' 27,469\" W",
+    "latitude": "9° 1' 18,620\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.790963749000014,
+    "y": -9.0218388459999801
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 34,
+    "nome": "Serra das Vacas VI",
+    "codmun": 2610301,
+    "munic": "Paranatama",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 26000,
+    "proprietar": "PEC Energia S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99239,
+    "logitude": "36° 42' 29,345\" W",
+    "latitude": "8° 52' 1,216\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.708151510999983,
+    "y": -8.8670045119999941
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 35,
+    "nome": "Serra dos Ventos II",
+    "codmun": 2610301,
+    "munic": "Paranatama",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 29400,
+    "proprietar": "CPFL ENERGIAS RENOVAVEIS S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99098,
+    "logitude": "36° 47' 5,043\" W",
+    "latitude": "8° 55' 23,614\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.784734055000001,
+    "y": -8.9232260360000168
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 36,
+    "nome": "Ventos de Santa Edith 03",
+    "codmun": 2616001,
+    "munic": "Venturosa",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 23000,
+    "proprietar": "Ventos de Santa Edith Energias Renováveis S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99108,
+    "logitude": "36° 43' 40,615\" W",
+    "latitude": "8° 37' 19,574\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.727948744999992,
+    "y": -8.6221038450000265
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 37,
+    "nome": "Ventos de Santa Edith 04",
+    "codmun": 2610905,
+    "munic": "Pesqueira",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 23000,
+    "proprietar": "Ventos de Santa Edith Energias Renováveis S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99740,
+    "logitude": "36° 43' 6,749\" W",
+    "latitude": "8° 38' 2,291\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.718541302000006,
+    "y": -8.6339696580000123
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 38,
+    "nome": "Ventos de Santa Edith 05",
+    "codmun": 2616001,
+    "munic": "Venturosa",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 23000,
+    "proprietar": "Ventos de Santa Edith Energias Renováveis S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99259,
+    "logitude": "36° 42' 3,270\" W",
+    "latitude": "8° 39' 52,865\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.700908253000023,
+    "y": -8.6646847690000186
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 39,
+    "nome": "Ventos de Santa Edith 06",
+    "codmun": 2610905,
+    "munic": "Pesqueira",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 23000,
+    "proprietar": "Ventos de Santa Edith Energias Renováveis S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99429,
+    "logitude": "36° 42' 4,841\" W",
+    "latitude": "8° 38' 15,652\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -36.701344586999994,
+    "y": -8.6376810660000274
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 40,
+    "nome": "Ventos de Santo Anselmo",
+    "codmun": 2609907,
+    "munic": "Ouricuri",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 29900,
+    "proprietar": "Ventos de Santo Anselmo Energias Renováveis S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99112,
+    "logitude": "40° 31' 16,344\" W",
+    "latitude": "8° 0' 15,962\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -40.521206774000007,
+    "y": -8.0044339489999743
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 41,
+    "nome": "Ventos de Santo Antero",
+    "codmun": 2609907,
+    "munic": "Ouricuri",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 30000,
+    "proprietar": "Ventos de Santo Antero Energias Renováveis S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99630,
+    "logitude": "40° 32' 51,800\" W",
+    "latitude": "8° 0' 32,828\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -40.547722098000008,
+    "y": -8.0091187649999824
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 42,
+    "nome": "Ventos de São Bernardo",
+    "codmun": 2609907,
+    "munic": "Ouricuri",
+    "uf": "PE",
+    "proc_aneel": " ",
+    "ato_legal": " ",
+    "p_out_kw": 29900,
+    "proprietar": "Ventos de São Bernardo Energias Renováveis S.A.",
+    "atualizaca": 1447718400000,
+    "eol_versao": 99555,
+    "logitude": "40° 30' 31,050\" W",
+    "latitude": "7° 59' 22,937\" S",
+    "dro_dt_vig": 1454630400000,
+    "ceg": " ",
+    "estagio": "DRO",
+    "versao": "Versão Válida",
+    "mod_explor": " "
+   },
+   "geometry": {
+    "x": -40.508624882999982,
+    "y": -7.9897046570000043
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 43,
+    "nome": "Pau Ferro",
+    "codmun": 2614808,
+    "munic": "Tacaratu",
+    "uf": "PE",
+    "proc_aneel": "48500.004382/2011-05",
+    "ato_legal": "DSP 240/2015, DSP 3419/2013, RES 4214/2013,DSP 942/2013, PRT 174/2012",
+    "p_out_kw": 30550,
+    "proprietar": "Enel Green Power Pau Ferro Eólica S.A.",
+    "atualizaca": 1449014400000,
+    "eol_versao": 225,
+    "logitude": "38° 7' 6.888\" W",
+    "latitude": "9° 3' 44.935\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE030805-6",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -38.118579865000015,
+    "y": -9.0624818800000071
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 44,
+    "nome": "Pedra do Gerônimo",
+    "codmun": 2614808,
+    "munic": "Tacaratu",
+    "uf": "PE",
+    "proc_aneel": "48500.004383/2011-41",
+    "ato_legal": "DSP 240/2015, DSP 3419/2013, RES 4216/2013",
+    "p_out_kw": 30550,
+    "proprietar": "Enel Green Power Pedra do Gerônimo Eólica S.A.",
+    "atualizaca": 1449014400000,
+    "eol_versao": 226,
+    "logitude": "38° 8' 41.219\" W",
+    "latitude": "9° 4' 1.895\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE030806-4",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -38.144783019999977,
+    "y": -9.067193030999988
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 45,
+    "nome": "Tacaicó",
+    "codmun": 2614808,
+    "munic": "Tacaratu",
+    "uf": "PE",
+    "proc_aneel": "48500.004384/2011-96",
+    "ato_legal": "DSP 240/2015, DSP 932/2013, RES 4217/2013",
+    "p_out_kw": 18800,
+    "proprietar": "Enel Green Power Tacaicó Eólica S.A.",
+    "atualizaca": 1449014400000,
+    "eol_versao": 502,
+    "logitude": "38° 3' 21,652\" W",
+    "latitude": "9° 1' 7,453\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE030789-0",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -38.056014504000018,
+    "y": -9.0187368919999926
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 46,
+    "nome": "Mandacaru",
+    "codmun": 2606408,
+    "munic": "Gravatá",
+    "uf": "PE",
+    "proc_aneel": "48500.004071/2003-48",
+    "ato_legal": "DSP 1101/2010, DSP 4618/2009, DSP 3433/2009, RES 1105/2007, RES 719/2003",
+    "p_out_kw": 4950,
+    "proprietar": "Eólica Gravatá Geradora de Energia S.A.",
+    "atualizaca": 1450310400000,
+    "eol_versao": 30,
+    "logitude": "35°35'47\"W",
+    "latitude": "8°16'44,2\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE029015-7",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -35.596375990000013,
+    "y": -8.2789980819999869
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 47,
+    "nome": "Serra das Vacas I",
+    "codmun": 2610301,
+    "munic": "Paranatama",
+    "uf": "PE",
+    "proc_aneel": "48500.001850/2013-43",
+    "ato_legal": "DSP 4072/2015, DSP 3840/2015, DSP 3765/20015, REA 5535/2015, PRT 234/2014",
+    "p_out_kw": 23920,
+    "proprietar": "Eólica Serra das Vacas I S.A.",
+    "atualizaca": 1451260800000,
+    "eol_versao": 1034,
+    "logitude": "36°44'51,87\"W",
+    "latitude": "8°54'40,64\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOL.CV.PE.031537-0.01",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.747708229000011,
+    "y": -8.9113339269999869
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 48,
+    "nome": "Serra das Vacas II",
+    "codmun": 2610301,
+    "munic": "Paranatama",
+    "uf": "PE",
+    "proc_aneel": "48500.001847/2013-20",
+    "ato_legal": "DSP 4072/2015, DSP 3633/2015, REA 5534/2015, PRT 240/2014, DSP 2590/2013, DSP 3516/2013REA 5534/2015, PRT 240/2014, DSP 2590/2013, DSP 3516/2013",
+    "p_out_kw": 22295,
+    "proprietar": "Eólica Serra das Vacas II S.A.",
+    "atualizaca": 1451260800000,
+    "eol_versao": 1035,
+    "logitude": "36°43'33,07\"W",
+    "latitude": "8°53'43,48\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOL.CV.PE.031540-0.01",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.725701656000012,
+    "y": -8.8951899880000269
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 49,
+    "nome": "Serra das Vacas III",
+    "codmun": 2610301,
+    "munic": "Paranatama",
+    "uf": "PE",
+    "proc_aneel": "48500.002332/2013-47",
+    "ato_legal": "DSP 4072/2015, DSP 3841/2015, DSP 3721/2015, REA 5536/2015, PRT 251/2014",
+    "p_out_kw": 22235,
+    "proprietar": "Eólica Serra das Vacas III S.A.",
+    "atualizaca": 1451260800000,
+    "eol_versao": 1036,
+    "logitude": "36°45'28,53\"W",
+    "latitude": "8°54'11,09\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOL.CV.PE.031560-5.01",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.75792469999999,
+    "y": -8.9030809920000138
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 50,
+    "nome": "Serra das Vacas IV",
+    "codmun": 2610301,
+    "munic": "Paranatama",
+    "uf": "PE",
+    "proc_aneel": "48500.004006/2013-74",
+    "ato_legal": "DSP 4072/2015, REA 5537/2015, DSP 3641/2015, PRT 263/2014",
+    "p_out_kw": 22295,
+    "proprietar": "Eólica Serra das Vacas IV S.A.",
+    "atualizaca": 1451260800000,
+    "eol_versao": 1037,
+    "logitude": "36°43'47,35\"W",
+    "latitude": "8°54'49,43\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOL.CV.PE.031574-5.01",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.729573002999985,
+    "y": -8.9138099979999765
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 51,
+    "nome": "Ventos de Santa Brígida IV",
+    "codmun": 260320,
+    "munic": "Caetés",
+    "uf": "PE",
+    "proc_aneel": "48500.003988/2013-87",
+    "ato_legal": "DSP 4139/2015, DSP 3268/2015, RES 5162/2015, PRT 086/2014, DSP 2.478/2013",
+    "p_out_kw": 27200,
+    "proprietar": "Ventos de Santa Brígida IV Energias Renováveis S.A.",
+    "atualizaca": 1451260800000,
+    "eol_versao": 687,
+    "logitude": "36°45'36,679\"W",
+    "latitude": "8°50'1,597\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031370-0",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.760183122000001,
+    "y": -8.8337765850000096
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 52,
+    "nome": "Ventos de Santa Brígida II",
+    "codmun": 260320,
+    "munic": "Caetés",
+    "uf": "PE",
+    "proc_aneel": "48500.003992/2013-45",
+    "ato_legal": "DSP 4139/2015, DSP 3268/2015 ,RES 5160/2015, PRT 079/2014, DSP 2.716/2013",
+    "p_out_kw": 27200,
+    "proprietar": "Ventos de Santa Brígida II Energias Renováveis S.A.",
+    "atualizaca": 1451260800000,
+    "eol_versao": 685,
+    "logitude": "36°44'1,562\"W",
+    "latitude": "8°47'48,929\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031363-7",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.733769384000027,
+    "y": -8.7969044309999731
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 53,
+    "nome": "Ventos de Santa Brígida III",
+    "codmun": 260320,
+    "munic": "Caetés",
+    "uf": "PE",
+    "proc_aneel": "48500.003993/2013-90",
+    "ato_legal": "DSP 4139/2015, DSP 3268/2015, RES 5161/2015, PRT 069/2014, DSP 2.601/2013",
+    "p_out_kw": 28900,
+    "proprietar": "Ventos de Santa Brígida III Energias Renováveis S.A.",
+    "atualizaca": 1451260800000,
+    "eol_versao": 686,
+    "logitude": "36°46'10,82\"W",
+    "latitude": "8°50'42,34\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031354-8",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.769663073999993,
+    "y": -8.8450857270000256
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 54,
+    "nome": "Ventos de Santa Brígida VI",
+    "codmun": 2610301,
+    "munic": "Paranatanama",
+    "uf": "PE",
+    "proc_aneel": "48500.003986/2013-98",
+    "ato_legal": "DSP 4139/2015, DSP 3268/2015, RES 5164/2015, OFC 50/2015, PRT 068/2014, DSP 2.479/2013",
+    "p_out_kw": 28900,
+    "proprietar": "Ventos de Santa Brígida VI Energias Renováveis S.A.",
+    "atualizaca": 1451260800000,
+    "eol_versao": 689,
+    "logitude": "36°44'49,391\"W",
+    "latitude": "8°52'5,041\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031353-0",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.747064369999975,
+    "y": -8.8680619410000077
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 55,
+    "nome": "Ventos de Santa Brígida V",
+    "codmun": 2610301,
+    "munic": "Paranatanama",
+    "uf": "PE",
+    "proc_aneel": "48500.003991/2013-45",
+    "ato_legal": "DSP 4139/2015, DSP 3268/2015, RES 5163/2015, PRT 063/2014, DSP 2.717/2013",
+    "p_out_kw": 28900,
+    "proprietar": "Ventos de Santa Brígida V Energias Renováveis S.A.",
+    "atualizaca": 1451260800000,
+    "eol_versao": 688,
+    "logitude": "36°43'48,867\"W",
+    "latitude": " 8°50'47,379\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031346-7",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.73023703299998,
+    "y": -8.8464924130000213
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 56,
+    "nome": "Ventos de Santa Brígida I",
+    "codmun": 260320,
+    "munic": "Caetés",
+    "uf": "PE",
+    "proc_aneel": "48500.003995/2013-89",
+    "ato_legal": "DSP 4139/2015, DSP 3268/2015, RES 5159/2015, OFC 46/2015, PRT 081/2014, DSP 2.600/2013",
+    "p_out_kw": 13600,
+    "proprietar": "Ventos de Santa Brígida I Energias Renováveis S.A.",
+    "atualizaca": 1451260800000,
+    "eol_versao": 684,
+    "logitude": "36°44'55,453\"W",
+    "latitude": "8°48'35,461\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031365-3",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.74873861399999,
+    "y": -8.8098831080000082
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 57,
+    "nome": "Ventos de Santa Brígida VII",
+    "codmun": 260320,
+    "munic": "Caetés",
+    "uf": "PE",
+    "proc_aneel": "48500.003984/2013-07",
+    "ato_legal": "DSP 4139/2015, DSP 3268/2015, RES 5168/2015, PRT 125/2014, DSP 2.480/2013",
+    "p_out_kw": 27200,
+    "proprietar": "Ventos de Santa Brigida Energias Renováveis S.A",
+    "atualizaca": 1451260800000,
+    "eol_versao": 690,
+    "logitude": "36°45'28,476\"W",
+    "latitude": "8°48'9,153\"S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE031422-6",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -36.75791783599999,
+    "y": -8.8025475150000148
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 58,
+    "nome": "Santa Maria",
+    "codmun": 2606408,
+    "munic": "Gravatá",
+    "uf": "PE",
+    "proc_aneel": "48500.004070/2003-85",
+    "ato_legal": "DSP 1102/2010, DSP 549/2010, DSP 3.430/2009, REA 1.137/2007, DSP 2.454/2007, DSP 581/2006, RES 37/2005, RES 723/2003",
+    "p_out_kw": 4950,
+    "proprietar": "Eólica Gravatá - Geradora de Energia S/A",
+    "atualizaca": 1452038400000,
+    "eol_versao": 52,
+    "logitude": "35° 35' 44.039\" W",
+    "latitude": "8° 17' 40.846\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE029019-0",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -35.595566354000027,
+    "y": -8.294679355000028
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 59,
+    "nome": "Xavante",
+    "codmun": 2611309,
+    "munic": "Pombos",
+    "uf": "PE",
+    "proc_aneel": "48500.004069/2003-04",
+    "ato_legal": "DSP 1.103/2010, DSP 4.598/2009, RES 1.076/2007, DSP 2.455/2007, DSP 584/2006, RES 208/2005, RES 715/2003",
+    "p_out_kw": 4950,
+    "proprietar": "Eólica Gravatá - Geradora de Energia S/A",
+    "atualizaca": 1452124800000,
+    "eol_versao": 58,
+    "logitude": "35° 23' 20.000\" W",
+    "latitude": "8° 10' 30.000\" S",
+    "dro_dt_vig": null,
+    "ceg": "EOLCVPE029011-4",
+    "estagio": "Operação",
+    "versao": "Versão Válida",
+    "mod_explor": "PIE"
+   },
+   "geometry": {
+    "x": -35.388888867999981,
+    "y": -8.1749999219999836
+   }
+  }
+ ]
+}

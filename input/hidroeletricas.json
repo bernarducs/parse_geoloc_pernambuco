@@ -1,0 +1,167 @@
+{
+ "displayFieldName": "latitude5",
+ "fieldAliases": {
+  "objectid": "objectid",
+  "latitude5": "Latitude Barramento",
+  "longitud6": "Longitude Barramento",
+  "nome": "Nome",
+  "estagio": "Estágio",
+  "proprietar": "Proprietário",
+  "municipio1": "Município 1",
+  "uf1": "UF 1",
+  "uf2": "UF 2",
+  "rio": "Rio",
+  "ato_legal": "Ato Legal",
+  "proc_anel": "Processo ANEEL",
+  "potencia": "Potência (kw)"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4674,
+  "latestWkid": 4674
+ },
+ "fields": [
+  {
+   "name": "objectid",
+   "type": "esriFieldTypeOID",
+   "alias": "objectid"
+  },
+  {
+   "name": "latitude5",
+   "type": "esriFieldTypeString",
+   "alias": "Latitude Barramento",
+   "length": 254
+  },
+  {
+   "name": "longitud6",
+   "type": "esriFieldTypeString",
+   "alias": "Longitude Barramento",
+   "length": 254
+  },
+  {
+   "name": "nome",
+   "type": "esriFieldTypeString",
+   "alias": "Nome",
+   "length": 50
+  },
+  {
+   "name": "estagio",
+   "type": "esriFieldTypeString",
+   "alias": "Estágio",
+   "length": 50
+  },
+  {
+   "name": "proprietar",
+   "type": "esriFieldTypeString",
+   "alias": "Proprietário",
+   "length": 50
+  },
+  {
+   "name": "municipio1",
+   "type": "esriFieldTypeString",
+   "alias": "Município 1",
+   "length": 50
+  },
+  {
+   "name": "uf1",
+   "type": "esriFieldTypeString",
+   "alias": "UF 1",
+   "length": 50
+  },
+  {
+   "name": "uf2",
+   "type": "esriFieldTypeString",
+   "alias": "UF 2",
+   "length": 50
+  },
+  {
+   "name": "rio",
+   "type": "esriFieldTypeString",
+   "alias": "Rio",
+   "length": 50
+  },
+  {
+   "name": "ato_legal",
+   "type": "esriFieldTypeString",
+   "alias": "Ato Legal",
+   "length": 50
+  },
+  {
+   "name": "proc_anel",
+   "type": "esriFieldTypeString",
+   "alias": "Processo ANEEL",
+   "length": 50
+  },
+  {
+   "name": "potencia",
+   "type": "esriFieldTypeString",
+   "alias": "Potência (kw)",
+   "length": 50
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "objectid": 1,
+    "latitude5": "-9.143992",
+    "longitud6": "-38.313367",
+    "nome": "Luiz Gonzaga (Itaparica)",
+    "estagio": "Operação",
+    "proprietar": "Companhia Hidro Elétrica do São Francisco",
+    "municipio1": "Glória",
+    "uf1": "BA",
+    "uf2": "PE",
+    "rio": "São Francisco",
+    "ato_legal": "ECT 006/2004 - ANEEL",
+    "proc_anel": "48500.000752/2001-00",
+    "potencia": "1479600"
+   },
+   "geometry": {
+    "x": -38.313020689999973,
+    "y": -9.1435702229999833
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2,
+    "latitude5": "-8.576944",
+    "longitud6": "-39.511944",
+    "nome": "Pedra Branca",
+    "estagio": "VB com Registro",
+    "proprietar": "não identificado",
+    "municipio1": "Orocó",
+    "uf1": "PE",
+    "uf2": "BA",
+    "rio": "São Francisco",
+    "ato_legal": "DSP 718/2003",
+    "proc_anel": " ",
+    "potencia": "320000"
+   },
+   "geometry": {
+    "x": -39.511588145000019,
+    "y": -8.5765278790000252
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 3,
+    "latitude5": "-8.783889",
+    "longitud6": "-39.681111",
+    "nome": "Riacho Seco",
+    "estagio": "VB com Aceite",
+    "proprietar": "não identificado",
+    "municipio1": "Santa Maria da Boa Vista",
+    "uf1": "PE",
+    "uf2": "BA",
+    "rio": "São Francisco",
+    "ato_legal": "DSP 718/2003",
+    "proc_anel": " ",
+    "potencia": "240000"
+   },
+   "geometry": {
+    "x": -39.680753492000008,
+    "y": -8.7834715149999738
+   }
+  }
+ ]
+}

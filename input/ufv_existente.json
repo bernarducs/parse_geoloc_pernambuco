@@ -1,0 +1,84 @@
+{
+ "displayFieldName": "Nome",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "Nome": "Nome",
+  "ESTAGIO": "Estágio",
+  "TIPO": "Tipo",
+  "INIC_OPER": "Início de operação",
+  "P_OUT_KW": "Potência Outorgada (kW)",
+  "COMBUST": "Combustível",
+  "UF1": "UF"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4674,
+  "latestWkid": 4674
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "Nome",
+   "type": "esriFieldTypeString",
+   "alias": "Nome",
+   "length": 254
+  },
+  {
+   "name": "ESTAGIO",
+   "type": "esriFieldTypeString",
+   "alias": "Estágio",
+   "length": 50
+  },
+  {
+   "name": "TIPO",
+   "type": "esriFieldTypeString",
+   "alias": "Tipo",
+   "length": 4
+  },
+  {
+   "name": "INIC_OPER",
+   "type": "esriFieldTypeDate",
+   "alias": "Início de operação",
+   "length": 8
+  },
+  {
+   "name": "P_OUT_KW",
+   "type": "esriFieldTypeDouble",
+   "alias": "Potência Outorgada (kW)"
+  },
+  {
+   "name": "COMBUST",
+   "type": "esriFieldTypeString",
+   "alias": "Combustível",
+   "length": 254
+  },
+  {
+   "name": "UF1",
+   "type": "esriFieldTypeString",
+   "alias": "UF",
+   "length": 254
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 61,
+    "Nome": "João Bosco de Almeida",
+    "ESTAGIO": "Operação",
+    "TIPO": "UFV",
+    "INIC_OPER": 1376956800000,
+    "P_OUT_KW": 3.48,
+    "COMBUST": "Radiação Solar",
+    "UF1": "PE"
+   },
+   "geometry": {
+    "x": -34.995759999999962,
+    "y": -7.9868299999999408
+   }
+  }
+ ]
+}

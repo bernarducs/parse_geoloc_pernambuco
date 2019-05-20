@@ -1,0 +1,221 @@
+{
+ "displayFieldName": "Nome",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "Nome": "Nome",
+  "Subsistema": "Subsistema",
+  "Potencia": "Potencia",
+  "Situacao": "Situacao",
+  "Ano": "Ano"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4674,
+  "latestWkid": 4674
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "Nome",
+   "type": "esriFieldTypeString",
+   "alias": "Nome",
+   "length": 150
+  },
+  {
+   "name": "Subsistema",
+   "type": "esriFieldTypeString",
+   "alias": "Subsistema",
+   "length": 150
+  },
+  {
+   "name": "Potencia",
+   "type": "esriFieldTypeDouble",
+   "alias": "Potencia"
+  },
+  {
+   "name": "Situacao",
+   "type": "esriFieldTypeString",
+   "alias": "Situacao",
+   "length": 100
+  },
+  {
+   "name": "Ano",
+   "type": "esriFieldTypeDouble",
+   "alias": "Ano"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 121,
+    "Nome": "Fazenda Esmeralda",
+    "Subsistema": "NORDESTE",
+    "Potencia": 30,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2019
+   },
+   "geometry": {
+    "x": -35.958002713999974,
+    "y": -8.415996770999925
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 122,
+    "Nome": "Boa Hora 3",
+    "Subsistema": "NORDESTE",
+    "Potencia": 25,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2018
+   },
+   "geometry": {
+    "x": -36.214162238999961,
+    "y": -8.3361025159999258
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 123,
+    "Nome": "Boa Hora 2",
+    "Subsistema": "NORDESTE",
+    "Potencia": 25,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2018
+   },
+   "geometry": {
+    "x": -36.218875152999942,
+    "y": -8.3380058739999754
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 124,
+    "Nome": "Boa Hora 1",
+    "Subsistema": "NORDESTE",
+    "Potencia": 25,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2018
+   },
+   "geometry": {
+    "x": -36.213798719999943,
+    "y": -8.3451531219999424
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 168,
+    "Nome": "Brigida",
+    "Subsistema": "NORDESTE",
+    "Potencia": 27,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2021
+   },
+   "geometry": {
+    "x": -39.591092068999956,
+    "y": -8.565874464999979
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 169,
+    "Nome": "Brigida 2",
+    "Subsistema": "NORDESTE",
+    "Potencia": 30,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2021
+   },
+   "geometry": {
+    "x": -39.603554157999952,
+    "y": -8.5452330129999723
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 170,
+    "Nome": "Solar Salgueiro",
+    "Subsistema": "NORDESTE",
+    "Potencia": 30,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2021
+   },
+   "geometry": {
+    "x": -39.344523878999951,
+    "y": -8.0803705599999489
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 171,
+    "Nome": "Solar Salgueiro II",
+    "Subsistema": "NORDESTE",
+    "Potencia": 30,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2021
+   },
+   "geometry": {
+    "x": -39.353395693999971,
+    "y": -8.0855007499999374
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 172,
+    "Nome": "Solar Salgueiro III",
+    "Subsistema": "NORDESTE",
+    "Potencia": 30,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2021
+   },
+   "geometry": {
+    "x": -39.355472290999955,
+    "y": -8.0833823359999428
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 182,
+    "Nome": "São Pedro e Paulo V",
+    "Subsistema": "NORDESTE",
+    "Potencia": 21,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2022
+   },
+   "geometry": {
+    "x": -37.946905962999949,
+    "y": -7.8911967849999769
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 183,
+    "Nome": "São Pedro e Paulo VI",
+    "Subsistema": "NORDESTE",
+    "Potencia": 21,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2022
+   },
+   "geometry": {
+    "x": -37.945527216999949,
+    "y": -7.89120235799993
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 184,
+    "Nome": "São Pedro e Paulo I",
+    "Subsistema": "NORDESTE",
+    "Potencia": 25,
+    "Situacao": "Expansão Contratada",
+    "Ano": 2022
+   },
+   "geometry": {
+    "x": -37.977874788999941,
+    "y": -7.8720455749999587
+   }
+  }
+ ]
+}

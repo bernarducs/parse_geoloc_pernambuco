@@ -1,0 +1,84 @@
+{
+ "displayFieldName": "Nome",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "Nome": "Nome",
+  "Situacao": "Situacao",
+  "Potencia": "Potencia (MW)",
+  "Comb_": "Combustível",
+  "UF": "UF",
+  "Subsistema": "Subsistema",
+  "Ano_": "Ano de entrada"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4674,
+  "latestWkid": 4674
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "Nome",
+   "type": "esriFieldTypeString",
+   "alias": "Nome",
+   "length": 254
+  },
+  {
+   "name": "Situacao",
+   "type": "esriFieldTypeString",
+   "alias": "Situacao",
+   "length": 100
+  },
+  {
+   "name": "Potencia",
+   "type": "esriFieldTypeDouble",
+   "alias": "Potencia (MW)"
+  },
+  {
+   "name": "Comb_",
+   "type": "esriFieldTypeString",
+   "alias": "Combustível",
+   "length": 254
+  },
+  {
+   "name": "UF",
+   "type": "esriFieldTypeString",
+   "alias": "UF",
+   "length": 254
+  },
+  {
+   "name": "Subsistema",
+   "type": "esriFieldTypeString",
+   "alias": "Subsistema",
+   "length": 254
+  },
+  {
+   "name": "Ano_",
+   "type": "esriFieldTypeString",
+   "alias": "Ano de entrada",
+   "length": 255
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 17,
+    "Nome": "UTE NovoTempo",
+    "Situacao": "Expansão contratada",
+    "Potencia": 591,
+    "Comb_": "gás natural",
+    "UF": "PE",
+    "Subsistema": "Sudeste",
+    "Ano_": "2021"
+   },
+   "geometry": {
+    "x": -35.029357999999945,
+    "y": -8.3904889999999455
+   }
+  }
+ ]
+}

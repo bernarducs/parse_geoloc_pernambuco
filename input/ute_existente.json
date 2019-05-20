@@ -1,0 +1,136 @@
+{
+ "displayFieldName": "Nome",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "Nome": "Nome",
+  "UF1": "UF",
+  "COMBUST": "Combustível",
+  "P_OUT_KW": "Potência Outorgada (kW)",
+  "INIC_OPER": "Início de operação",
+  "ESTAGIO": "Estágio"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4674,
+  "latestWkid": 4674
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "Nome",
+   "type": "esriFieldTypeString",
+   "alias": "Nome",
+   "length": 254
+  },
+  {
+   "name": "UF1",
+   "type": "esriFieldTypeString",
+   "alias": "UF",
+   "length": 254
+  },
+  {
+   "name": "COMBUST",
+   "type": "esriFieldTypeString",
+   "alias": "Combustível",
+   "length": 254
+  },
+  {
+   "name": "P_OUT_KW",
+   "type": "esriFieldTypeDouble",
+   "alias": "Potência Outorgada (kW)"
+  },
+  {
+   "name": "INIC_OPER",
+   "type": "esriFieldTypeDate",
+   "alias": "Início de operação",
+   "length": 8
+  },
+  {
+   "name": "ESTAGIO",
+   "type": "esriFieldTypeString",
+   "alias": "Estágio",
+   "length": 50
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1631,
+    "Nome": "Termocabo",
+    "UF1": "PE",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 49725,
+    "INIC_OPER": 1032393600000,
+    "ESTAGIO": "Operação"
+   },
+   "geometry": {
+    "x": -35.038488887999961,
+    "y": -8.2898638879999567
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1643,
+    "Nome": "Petrolina",
+    "UF1": "PE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 136200,
+    "INIC_OPER": 1033603200000,
+    "ESTAGIO": "Operação"
+   },
+   "geometry": {
+    "x": -40.499998889999972,
+    "y": -9.3973761099999251
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1792,
+    "Nome": "Termomanaus",
+    "UF1": "PE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 143040,
+    "INIC_OPER": 1245283200000,
+    "ESTAGIO": "Operação"
+   },
+   "geometry": {
+    "x": -35.009367886999939,
+    "y": -7.8567874429999733
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1826,
+    "Nome": "Pau Ferro I",
+    "UF1": "PE",
+    "COMBUST": "Óleo Diesel",
+    "P_OUT_KW": 94080,
+    "INIC_OPER": 1245283200000,
+    "ESTAGIO": "Operação"
+   },
+   "geometry": {
+    "x": -35.009367886999939,
+    "y": -7.8567874429999733
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1842,
+    "Nome": "Suape, CGDe, Koblitz Energia Ltda.",
+    "UF1": "PE",
+    "COMBUST": "Gás Natural",
+    "P_OUT_KW": 4000,
+    "INIC_OPER": null,
+    "ESTAGIO": "Operação"
+   },
+   "geometry": {
+    "x": -35.025534553999933,
+    "y": -8.2830096649999518
+   }
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+id,objectid,latitude5,longitud6,nome,estagio,proprietar,municipio1,uf1,uf2,rio,ato_legal,proc_anel,potencia
+1,1,-9.143992,-38.313367,Luiz Gonzaga (Itaparica),Operação,Companhia Hidro Elétrica do São Francisco,Glória,BA,PE,São Francisco,ECT 006/2004 - ANEEL,48500.000752/2001-00,1479600
+2,2,-8.576944,-39.511944,Pedra Branca,VB com Registro,não identificado,Orocó,PE,BA,São Francisco,DSP 718/2003, ,320000
+3,3,-8.783889,-39.681111,Riacho Seco,VB com Aceite,não identificado,Santa Maria da Boa Vista,PE,BA,São Francisco,DSP 718/2003, ,240000

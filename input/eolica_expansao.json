@@ -1,0 +1,106 @@
+{
+ "displayFieldName": "Situacao",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "Nome": "Nome",
+  "Situacao": "Situação",
+  "Potencia": "Potência (MW)",
+  "UF": "UF",
+  "Subsitema": "Subsistema",
+  "Ano_": "Ano de entrada"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4674,
+  "latestWkid": 4674
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "Nome",
+   "type": "esriFieldTypeString",
+   "alias": "Nome",
+   "length": 100
+  },
+  {
+   "name": "Situacao",
+   "type": "esriFieldTypeString",
+   "alias": "Situação",
+   "length": 100
+  },
+  {
+   "name": "Potencia",
+   "type": "esriFieldTypeInteger",
+   "alias": "Potência (MW)"
+  },
+  {
+   "name": "UF",
+   "type": "esriFieldTypeString",
+   "alias": "UF",
+   "length": 5
+  },
+  {
+   "name": "Subsitema",
+   "type": "esriFieldTypeString",
+   "alias": "Subsistema",
+   "length": 100
+  },
+  {
+   "name": "Ano_",
+   "type": "esriFieldTypeString",
+   "alias": "Ano de entrada",
+   "length": 255
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 2068,
+    "Nome": "Ouro Branco 1",
+    "Situacao": "Expansão contratada",
+    "Potencia": 30,
+    "UF": "PE",
+    "Subsitema": "NORDESTE",
+    "Ano_": null
+   },
+   "geometry": {
+    "x": -36.731345414999964,
+    "y": -8.1817752529999552
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 2109,
+    "Nome": "Quatro Ventos",
+    "Situacao": "Expansão contratada",
+    "Potencia": 22,
+    "UF": "PE",
+    "Subsitema": "NORDESTE",
+    "Ano_": null
+   },
+   "geometry": {
+    "x": -35.493034912999974,
+    "y": -7.4875697439999271
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 2110,
+    "Nome": "Ouro Branco 2",
+    "Situacao": "Expansão contratada",
+    "Potencia": 30,
+    "UF": "PE",
+    "Subsitema": "NORDESTE",
+    "Ano_": null
+   },
+   "geometry": {
+    "x": "NaN",
+    "y": "NaN"
+   }
+  }
+ ]
+}

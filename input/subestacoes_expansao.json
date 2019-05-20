@@ -1,0 +1,87 @@
+{
+ "displayFieldName": "Nome",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "Nome": "Nome",
+  "Tensao": "Tensão",
+  "Situacao": "Situação",
+  "Ano_Opera": "Ano previsto para entrada em operação"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4674,
+  "latestWkid": 4674
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "Nome",
+   "type": "esriFieldTypeString",
+   "alias": "Nome",
+   "length": 200
+  },
+  {
+   "name": "Tensao",
+   "type": "esriFieldTypeString",
+   "alias": "Tensão",
+   "length": 50
+  },
+  {
+   "name": "Situacao",
+   "type": "esriFieldTypeString",
+   "alias": "Situação",
+   "length": 50
+  },
+  {
+   "name": "Ano_Opera",
+   "type": "esriFieldTypeString",
+   "alias": "Ano previsto para entrada em operação",
+   "length": 25
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1081,
+    "Nome": "SE Arcoverde II",
+    "Tensao": "230/69",
+    "Situacao": "Planejada",
+    "Ano_Opera": "2021"
+   },
+   "geometry": {
+    "x": -37.003229438999938,
+    "y": -8.5010384279999585
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1173,
+    "Nome": "SE Lagoa do Carro",
+    "Tensao": "230",
+    "Situacao": "Planejada",
+    "Ano_Opera": "2021"
+   },
+   "geometry": {
+    "x": -35.361005914999964,
+    "y": -7.8670369349999305
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1204,
+    "Nome": "SE FIAT Seccionadora",
+    "Tensao": "230",
+    "Situacao": "Planejada",
+    "Ano_Opera": "2019"
+   },
+   "geometry": {
+    "x": -34.958595702999958,
+    "y": -7.6287964939999711
+   }
+  }
+ ]
+}
